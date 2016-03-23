@@ -2,6 +2,7 @@
 Solution for the elevator programming game (http://play.elevatorsaga.com/)
 
 Solution #1 (elevator_saga_00.js):
+
 This is a sketch-solution which [suddenly] will pass most challenges after a few tries (especially with limited waiting time).
 Also, solution does not use the direction indicators. So, solution needs an improvement and i'm working on it.
 
